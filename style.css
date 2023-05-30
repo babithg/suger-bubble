@@ -362,6 +362,7 @@ ul li a:hover{
 .sales .products .item button:hover {
     background-color: #fff;
     color: #FF6B00;
+    cursor: pointer;
 }
 
 
@@ -551,7 +552,10 @@ ul li a:hover{
     text-align: center;
     color: #FF6B00;
     margin-top: 40px;
+    cursor: pointer;
 }
+
+/* Footer  */
 
 .footer {
     position: relative;
@@ -588,6 +592,7 @@ ul li a:hover{
     color: #FF6B00;
     margin-left: 10px;
     margin-top: 25px;
+    cursor: pointer;
 }
 
 .footer .contact h2 {
